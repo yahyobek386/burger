@@ -14,9 +14,6 @@ body {
 
 .home {
   max-width: 1920px;
-
-
-
   margin: 0 auto;
   background: url(/home.png) 480px 0 no-repeat, url(/olov1.png) no-repeat, url(/olov2.png) 100% 0 no-repeat, #191411;
   background-size: 70%, 40%, 40%;
